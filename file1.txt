@@ -5,4 +5,4 @@ git modified
 git modified 2
 git checkouts
 git branch
-git conflic 2
+git conflic   2
