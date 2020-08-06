@@ -3,3 +3,5 @@
 Git
 git modified
 git modified 2
+git checkouts
+git branch
