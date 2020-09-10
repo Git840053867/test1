@@ -6,3 +6,6 @@ git modified 2
 git checkouts
 git branch
 git conflic 2 3:
+a
+fenzhi:
+1
