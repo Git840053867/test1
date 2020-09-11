@@ -9,7 +9,7 @@ git conflic 2 3:
 a
 fenzhi:
 ;2222222
-bbbbbb
+baaaaaabbbbb
 
 aa
 
